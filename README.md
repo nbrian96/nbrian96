@@ -1,7 +1,10 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 ## Hi, I'm Brian 👋💻👦
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210">
 
-### About me in code
 
+### A little about me in code...  
 ```js
 import SoftwareDeveloper from 'nbrian96';
 
@@ -20,14 +23,14 @@ class Skills extends SoftwareDeveloper {
 
 ## You can find me 🌎
 
-<p align="center">
-  <a href="https://www.instagram.com/nbrian96/?hl=es">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">
-  </a>
-
+<p align="left">
   <a href="https://www.linkedin.com/in/nelsonavilasolano96/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
   </a>
+  
+  <a href="https://www.instagram.com/nbrian96/?hl=es">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">
+  </a> 
 </p>
 
 <!--
