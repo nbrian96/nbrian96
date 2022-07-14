@@ -15,9 +15,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  code: ["Javascript", "HTML", "CSS", "Python", "Java", "PHP"];   
+  code: ["Javascript", "HTML", "CSS", "Python", "PHP", "C/C++"];   
   technologies: ["Bootstrap", "React", "jQuery", "MySQL"];   
-  currentOccupation: ["computer engineering student at the UBA, open to job opportunities"];
+  currentOccupation: ["Computer engineering student at the UBA, open to job opportunities"];
 }
 ```
 
